@@ -21,5 +21,6 @@ Acrylic, 3D printed parts, Screws, Spacers, Wires.
 | 1/17  | Have fully functional Assembly and Code for Robot Arm  |
 
 ## Design / Outline
-![Sketch](\H:\Engineering\Robot-Arm\sketchra.jpg)
+![Sketch](media\sketchra.jpg)
+
 
